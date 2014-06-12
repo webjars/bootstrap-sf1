@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>bootstrap-sf1</artifactId>
-    <version>0.1.0-beta.6</version>
+    <version>0.1.1-beta.6-SNAPSHOT</version>
     <name>bootstrap-sf1</name>
     <description>WebJar for bootstrap-sf1</description>
     <url>http://webjars.org</url>
@@ -44,7 +44,7 @@
         <url>http://github.com/webjars/bootstrap-sf1</url>
         <connection>scm:git:https://github.com/webjars/bootstrap-sf1.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/bootstrap-sf1.git</developerConnection>
-        <tag>bootstrap-sf1-0.1.0-beta.6</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
